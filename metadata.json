@@ -1,0 +1,6 @@
+{
+  "name": "Sandesh",
+  "description": "Offline-first WhatsApp, WhatsApp Business, and cloned-app text & media scheduler with encrypted lock-screen unlock, Permission Manager, and OEM battery shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

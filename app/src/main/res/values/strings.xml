@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sandesh</string>
+    <string name="accessibility_service_label">Sandesh Auto-Dispatch</string>
+    <string name="accessibility_service_description">Automates scheduled message and media delivery in WhatsApp, WhatsApp Business, and cloned WhatsApp apps, and optionally unlocks the configured screen lock during scheduled dispatches.</string>
+    <string name="notif_channel_dispatch_name">Scheduled Dispatch</string>
+    <string name="notif_channel_dispatch_desc">Alerts and foreground service status when sending scheduled WhatsApp messages</string>
+    <string name="notif_channel_results_name">Delivery Reports</string>
+    <string name="notif_channel_results_desc">Success or failure notifications for scheduled messages</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold paper-plane / dispatch silhouette centered inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M29,34 L81,51 L29,72 L37,54 L59,51 L37,48 Z" />
+    <!-- Precision schedule clock badge in lower right -->
+    <path
+        android:fillColor="#FF004D36"
+        android:pathData="M68,68 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <path
+        android:fillColor="#FF89F8C7"
+        android:pathData="M68,68 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#FF004D36"
+        android:pathData="M66.8,62 L69.2,62 L69.2,68 L73.5,70.5 L72.2,72.5 L66.8,69.3 Z" />
+</vector>
